@@ -8,5 +8,5 @@ An up-to-date portfolio housing my personal career and experience related docume
 
 # [Resumes](https://github.com/Jamesrbrtsn/Career-Application-Portfolio/tree/master/Resumes "Quick Access Link to Resumes folder")
 
-# [Certification_Copies](https://github.com/Jamesrbrtsn/Career-Application-Portfolio/tree/master/Certifications "Quick Access Link to Certifications folder")
+# [Certifications](https://github.com/Jamesrbrtsn/Career-Application-Portfolio/tree/master/Certifications "Quick Access Link to Certifications folder")
 
