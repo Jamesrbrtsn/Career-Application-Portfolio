@@ -1,6 +1,6 @@
 # Career Application Portfolio  
 
-![](https://img.shields.io/github/issues/Jamesrbrtsn/Career-Application-Portfolio "A visual box with the label issues 0 open. It serves for humor")
+![](https://img.shields.io/github/issues/Jamesrbrtsn/Career-Application-Portfolio "A visual box with the label issues 0 open. It serves for humor")          ![](https://img.shields.io/twitter/url/https/github.com/Jamesrbrtsn/Career-Application-Portfolio?label=Tweet%20me%20to%20your%20network%21&style=social "Tweet me to your network link and label - It server for humor")
 
 An up-to-date portfolio housing my personal career and experience related documents. Contains copies of my current resumes, CVs, and certifications among other career related files
 
@@ -10,3 +10,12 @@ An up-to-date portfolio housing my personal career and experience related docume
 
 # [Certifications](https://github.com/Jamesrbrtsn/Career-Application-Portfolio/tree/master/Certifications "Quick Access Link to Certifications folder")
 
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="jamesrbrtsn"><a class="LI-simple-link" href='https://ca.linkedin.com/in/jamesrbrtsn?trk=profile-badge'>James Robertson</a></div>
+# Heading 1
+
+
+
+<div class="something" markdown="1">
+  ## Heading 2
+  Some **bold** text.
+</div>
