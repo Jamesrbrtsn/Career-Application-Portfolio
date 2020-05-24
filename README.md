@@ -1,6 +1,6 @@
 # Career Application Portfolio  
 
-![](https://img.shields.io/github/issues/Jamesrbrtsn/Career-Application-Portfolio "A visual box with the label issues 0 open. It serves for humor")  ![](https://img.shields.io/twitter/url/https/github.com/Jamesrbrtsn/Career-Application-Portfolio?label=Tweet%20me%20to%20your%20network%21&style=social "Tweet me to your network link and label - It serves for humor")
+![](https://img.shields.io/github/issues/Jamesrbrtsn/Career-Application-Portfolio "A visual box with the label issues 0 open. It serves for humor")
 
 An up-to-date portfolio housing my personal career and experience related documents. Contains copies of my current resumes, CVs, and certifications among other career related files
 
